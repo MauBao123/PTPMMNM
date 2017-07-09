@@ -1,7 +1,7 @@
 ﻿# In ra bang cuu chuong
 #
 
-n=$1 
+n=$1
 i=1
   while ($i -le 10)
     do
